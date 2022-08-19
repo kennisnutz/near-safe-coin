@@ -1,8 +1,44 @@
-# Getting Started with Create React App
+# NEAR SAFE COIN 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This website is a simple landing page for the NEAR SAVE TOKEN.
 
-## Available Scripts
+# Project Feature
+
+# Technologies
+
+
+## Dependencies
+    "@ant-design/icons": "^4.7.0"
+
+    "@reduxjs/toolkit": "^1.8.4"
+
+    "antd": "^4.22.6"
+
+    "axios": "^0.27.2"
+
+    "chart.js": "^3.9.1"
+
+    "html-react-parser": "^3.0.1"
+
+    "millify": "^5.0.0"
+
+    "moment": "^2.29.4"
+    
+    "react-chartjs-2": "^4.3.1"
+
+    "react-redux": "^8.0.2"
+
+### Libraries
+
+### Frame Works
+
+# User Guides and references
+
+## [Live Demo](https://facebook.github.io/create-react-app/docs/running-tests)
+
+
+
+## run on your local sever
 
 In the project directory, you can run:
 
